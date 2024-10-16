@@ -44,6 +44,7 @@ Android-Projects-Archive/
 - Firebase Realtime Database
 - Firebase Authentication
 - Broadcast Receiver
+- Retrofit
 - API
 - Git for Version Control
 
