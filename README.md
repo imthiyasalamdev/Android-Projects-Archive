@@ -19,10 +19,10 @@ Android-Projects-Archive/
 ├── UPAVP-PEMS/                     # Directory for UPAVP-PEMS project
 │   └── README.md                   # Overview and details about the UPAVP-PEMS project
 │
-├── PhoneApp/                       # Directory for PhoneApp project
+├── PhoneApp/                       # Directory for PhoneApp project (to be added)
 │   └── README.md                   # Overview and details about the PhoneApp project
 │
-├── Project3/                       # Directory for Project3
+├── Project3/                       # Directory for Project3 (to be added)
 │   └── README.md                   # Overview and details about Project3
 │
 └── README.md                       # Main README file for the repository
