@@ -81,6 +81,7 @@ The project was delivered on **September 27, 2024**, after implementing the fina
 - SQLite
 - Retrofit
 - API
+-Google Maps API
 - Git for Version Control
 
 ```
