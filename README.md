@@ -44,6 +44,7 @@ Android-Projects-Archive/
 - Android SDK
 - Java
 - XML for Layout Design
+- Material Design
 - SQLite for Local Storage
 - Firebase Realtime Database
 - Firebase Authentication
