@@ -33,6 +33,9 @@ Android-Projects-Archive/
 
 ## Technologies Used
 
+```plaintext
+
+
 - Android SDK
 - Java
 - XML for Layout Design
@@ -44,6 +47,9 @@ Android-Projects-Archive/
 - Retrofit
 - API
 - Git for Version Control
+
+
+```
 
 
 
