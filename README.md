@@ -34,11 +34,6 @@ Android-Projects-Archive/
 ```
 
 
-
-
-
-
-
 ## Technologies Used
 
 - Android SDK
@@ -51,3 +46,6 @@ Android-Projects-Archive/
 - Broadcast Receiver
 - API
 - Git for Version Control
+
+
+
