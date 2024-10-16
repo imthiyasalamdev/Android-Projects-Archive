@@ -14,8 +14,6 @@ The repository is organized into the following main directories:
 ```plaintext
 
 
-
-
 Android-Projects-Archive/
 │
 ├── UPAVP-PEMS/                     # Directory for UPAVP-PEMS project
@@ -28,7 +26,6 @@ Android-Projects-Archive/
 │   └── README.md                   # Overview and details about Project3
 │
 └── README.md                       # Main README file for the repository
-
 
 
 ```
