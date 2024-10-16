@@ -1,2 +1,3 @@
 # Android-Projects-Archive
-A comprehensive repository showcasing my development projects, including detailed documentation and insights into each project.
+Welcome to my Android Projects Archive! This repository is a collection of various Android development projects I've worked on, showcasing my skills and experience in building mobile applications.
+
