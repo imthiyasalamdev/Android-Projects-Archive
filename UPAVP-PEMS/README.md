@@ -1,4 +1,4 @@
-# UPAVP-PEMS    &nbsp;&nbsp;&nbsp;&nbsp;[APP LINK](https://drive.google.com/file/d/1pe66hmOKk-UCcWUSxaySYBEkQ7DbTlKR/view?usp=drive_link)
+# UPAVP-PEMS    &nbsp;&nbsp;&nbsp;&nbsp;[APP LINK](https://github.com/imthiyasalamdev/Android-Projects-Archive/releases/tag/%40github%2Frelease-drafter-action)
 
 # Uttar Pradesh Awas Vikas Parishad - Property Estate Management System
 
@@ -66,7 +66,7 @@ The project was delivered on **September 27, 2024**, after implementing the fina
 ---
 
 ## APP LINK 
-### https://drive.google.com/file/d/1pe66hmOKk-UCcWUSxaySYBEkQ7DbTlKR/view?usp=drive_link
+### [https://drive.google.com/file/d/1pe66hmOKk-UCcWUSxaySYBEkQ7DbTlKR/view?usp=drive_link](https://github.com/imthiyasalamdev/Android-Projects-Archive/releases/tag/%40github%2Frelease-drafter-action)
 
 ## Technologies Used
 
