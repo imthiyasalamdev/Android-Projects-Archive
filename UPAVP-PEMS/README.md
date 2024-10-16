@@ -68,6 +68,23 @@ The project was delivered on **September 27, 2024**, after implementing the fina
 ## APP LINK 
 ### https://drive.google.com/file/d/1pe66hmOKk-UCcWUSxaySYBEkQ7DbTlKR/view?usp=drive_link
 
+## Technologies Used
+
+```plaintext
+
+- Android SDK
+- Java
+- XML for Layout Design
+- Material Design
+- Postman
+- Shared Preference
+- SQLite
+- Retrofit
+- API
+- Git for Version Control
+
+```
+
 > **Note**: Due to client confidentiality, the project code is not shared in this repository. This repository only contains documentation related to the project.
 
  
