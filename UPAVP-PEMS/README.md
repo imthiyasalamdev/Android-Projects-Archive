@@ -65,7 +65,7 @@ The project was delivered on **September 27, 2024**, after implementing the fina
 ---
 
 ## APP LINK 
-### https://drive.google.com/file/d/1p-jAw5bpx_WNUFlWepa1gNCRHCkYyHn2/view?usp=drive_link
+### https://drive.google.com/file/d/1pe66hmOKk-UCcWUSxaySYBEkQ7DbTlKR/view?usp=drive_link
 
 > **Note**: Due to client confidentiality, the project code is not shared in this repository. This repository only contains documentation related to the project.
 
