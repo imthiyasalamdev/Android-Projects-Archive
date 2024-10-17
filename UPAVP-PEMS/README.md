@@ -65,9 +65,6 @@ The project was delivered on **September 27, 2024**, after implementing the fina
 
 ---
 
-## APP LINK 
-### [https://drive.google.com/file/d/1pe66hmOKk-UCcWUSxaySYBEkQ7DbTlKR/view?usp=drive_link](https://github.com/imthiyasalamdev/Android-Projects-Archive/releases/tag/%40github%2Frelease-drafter-action)
-
 ## Technologies Used
 
 ```plaintext
