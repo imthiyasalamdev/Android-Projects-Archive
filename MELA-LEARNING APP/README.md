@@ -1,4 +1,4 @@
-# Madarasa Education Learning App (MELA)
+# Madarasa Education Learning App (MELA) &nbsp;&nbsp;&nbsp;&nbsp;[APP LINK](https://play.google.com/store/apps/details?id=com.azad.e_learningmadarsha)
 
 ## Overview
 
