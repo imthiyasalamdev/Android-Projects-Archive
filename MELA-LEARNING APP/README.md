@@ -1,19 +1,5 @@
 # Madarasa Education Learning App (MELA) &nbsp;&nbsp;&nbsp;&nbsp;[APP LINK](https://play.google.com/store/apps/details?id=com.azad.e_learningmadarsha)
 
-
-## Screenshots
-
-![App Screenshot 1](https://play-lh.googleusercontent.com/xfQXnwnLa8rPATW1ACaX4Mw87BqrtpykWEf7VfMVSFYlSPm9eOk86VVQwjwN1Gt15Q=w1052-h592-rw)
-![App Screenshot 2](https://play-lh.googleusercontent.com/OpvtD9klpEVcingTJNt7VdAttNQaUzmaMTgDHBbyPeB_VK437rkUvn1sUBCouP68eKLD=w1052-h592-rw)
-![App Screenshot 3](https://play-lh.googleusercontent.com/RoCzMidlUjWWCxYsqdtHEOcZnI6Z_YZyHauC4DLBvYxO6OBOxXkWxNCKcTg99Y4xkvk=w1052-h592-rw)
-![App Screenshot 4](https://play-lh.googleusercontent.com/clI80wf7lugEBVDrA8K5H-ah0bxNfRq9R8_8p7BnlWDskrfRXRQ5P07d_1LSTNj9OMI=w1052-h592-rw)
-![App Screenshot 5](https://play-lh.googleusercontent.com/8WhtPc0AW_GYpkU9-BrFtZOojhyD9dKHGUGPawiY1i-cVT3mP-P977C1M6RpMDXeQ6c=w1052-h592-rw)
-![App Screenshot 6](https://play-lh.googleusercontent.com/hXko074uYgtf8xOrKCNJCtqVR9Y0g5xk4E-dXUnpNrO2yTC1IZI78gbDB-tB1xfHhKWv=w1052-h592-rw)
-![App Screenshot 7](https://play-lh.googleusercontent.com/d9LGq2uPeJVTX7zhoh-IIZ2-8cuq2w3tl7T89WRKN2jcbRC8yCFOSpehaTgdqsSy0FI=w1052-h592-rw)
-![App Screenshot 9](https://play-lh.googleusercontent.com/hiaiWjfQjfFd1pdy6-ujCfGKN-7ix0HNqfC2XNzJS5PJOVB-rD75P5ljXoeVISnYJdU=w1052-h592-rw)
-![App Screenshot 10](https://play-lh.googleusercontent.com/cNsgMPKy6gkhyaFbtNjU9_PTXv0qUqKxa_rOkvH6Wa6-_GIVGdlkTTmJVL_K4ekJFRmc=w1052-h592-rw)
-
-
 ## Overview
 
 **Madarasa Education Learning App (MELA)** is an e-learning platform designed for the Madarasa students of Uttar Pradesh. The app aims to provide accessible and structured learning resources for students, teachers, institutions, and administrators, making education more engaging and inclusive. Originally deployed on the Google Play Store in 2022, I joined as an intern in 2024 and enhanced the app by improving the user interface (UI) design and expanding its functionalities.
@@ -96,4 +82,18 @@
 ### Video Streaming Integration
 - **Challenge**: Implementing Agora SDK for live video sessions and online meetings.
 - **Solution**: Researched and integrated Agora's documentation, ensuring low-latency communication and smooth video streaming for live classes and online meetings.
+
+## Screenshots
+
+![App Screenshot 1](https://play-lh.googleusercontent.com/xfQXnwnLa8rPATW1ACaX4Mw87BqrtpykWEf7VfMVSFYlSPm9eOk86VVQwjwN1Gt15Q=w1052-h592-rw)
+![App Screenshot 2](https://play-lh.googleusercontent.com/OpvtD9klpEVcingTJNt7VdAttNQaUzmaMTgDHBbyPeB_VK437rkUvn1sUBCouP68eKLD=w1052-h592-rw)
+![App Screenshot 3](https://play-lh.googleusercontent.com/RoCzMidlUjWWCxYsqdtHEOcZnI6Z_YZyHauC4DLBvYxO6OBOxXkWxNCKcTg99Y4xkvk=w1052-h592-rw)
+![App Screenshot 4](https://play-lh.googleusercontent.com/clI80wf7lugEBVDrA8K5H-ah0bxNfRq9R8_8p7BnlWDskrfRXRQ5P07d_1LSTNj9OMI=w1052-h592-rw)
+![App Screenshot 5](https://play-lh.googleusercontent.com/8WhtPc0AW_GYpkU9-BrFtZOojhyD9dKHGUGPawiY1i-cVT3mP-P977C1M6RpMDXeQ6c=w1052-h592-rw)
+![App Screenshot 6](https://play-lh.googleusercontent.com/hXko074uYgtf8xOrKCNJCtqVR9Y0g5xk4E-dXUnpNrO2yTC1IZI78gbDB-tB1xfHhKWv=w1052-h592-rw)
+![App Screenshot 7](https://play-lh.googleusercontent.com/d9LGq2uPeJVTX7zhoh-IIZ2-8cuq2w3tl7T89WRKN2jcbRC8yCFOSpehaTgdqsSy0FI=w1052-h592-rw)
+![App Screenshot 9](https://play-lh.googleusercontent.com/hiaiWjfQjfFd1pdy6-ujCfGKN-7ix0HNqfC2XNzJS5PJOVB-rD75P5ljXoeVISnYJdU=w1052-h592-rw)
+![App Screenshot 10](https://play-lh.googleusercontent.com/cNsgMPKy6gkhyaFbtNjU9_PTXv0qUqKxa_rOkvH6Wa6-_GIVGdlkTTmJVL_K4ekJFRmc=w1052-h592-rw)
+
+
 
