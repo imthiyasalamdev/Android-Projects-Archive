@@ -10,7 +10,6 @@
 ![App Screenshot 5](https://play-lh.googleusercontent.com/8WhtPc0AW_GYpkU9-BrFtZOojhyD9dKHGUGPawiY1i-cVT3mP-P977C1M6RpMDXeQ6c=w1052-h592-rw)
 ![App Screenshot 6](https://play-lh.googleusercontent.com/hXko074uYgtf8xOrKCNJCtqVR9Y0g5xk4E-dXUnpNrO2yTC1IZI78gbDB-tB1xfHhKWv=w1052-h592-rw)
 ![App Screenshot 7](https://play-lh.googleusercontent.com/d9LGq2uPeJVTX7zhoh-IIZ2-8cuq2w3tl7T89WRKN2jcbRC8yCFOSpehaTgdqsSy0FI=w1052-h592-rw)
-![App Screenshot 8](https://play-lh.googleusercontent.com/8RE39oW0kuUct11KXldnrpXF-G599OKMfi3Ymoqd4C-g1h4FFqpnUk8wskjIeuLOoIk=w1052-h592-rw)
 ![App Screenshot 9](https://play-lh.googleusercontent.com/hiaiWjfQjfFd1pdy6-ujCfGKN-7ix0HNqfC2XNzJS5PJOVB-rD75P5ljXoeVISnYJdU=w1052-h592-rw)
 ![App Screenshot 10](https://play-lh.googleusercontent.com/cNsgMPKy6gkhyaFbtNjU9_PTXv0qUqKxa_rOkvH6Wa6-_GIVGdlkTTmJVL_K4ekJFRmc=w1052-h592-rw)
 
