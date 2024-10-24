@@ -19,8 +19,8 @@ Android-Projects-Archive/
 ├── UPAVP-PEMS/                     # Directory for UPAVP-PEMS project
 │   └── README.md                   # Overview and details about the UPAVP-PEMS project
 │
-├── MELA/                       # Directory for PhoneApp project (to be added)
-│   └── README.md                   # Overview and details about the PhoneApp project
+├── MELA/                       # Directory for MELA project 
+│   └── README.md                   # Overview and details about the MELA project
 │
 ├── Project3/                       # Directory for Project3 (to be added)
 │   └── README.md                   # Overview and details about Project3
